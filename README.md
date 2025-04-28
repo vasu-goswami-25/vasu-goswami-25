@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **improving my full-stack development skills, building scalable web applications, and contributing to open-source projects.**
 
-- 👨‍💻 All of my projects are available at [https://dev-vasu.framer.ai/](https://dev-vasu.framer.ai/)
+- 👨‍💻 All of my projects are available at [https://github.com/vasu-goswami-25](https://github.com/vasu-goswami-25)
 
-- 📝 I regularly write articles on [https://dev-vasu.framer.ai/](https://dev-vasu.framer.ai/)
+- 📝 I regularly write articles on **frontend and backend development, database technologies, and best practices in web development."**
 
 - 💬 Ask me about **I have knowledge about Frontend, Backend as well as Database.**
 
