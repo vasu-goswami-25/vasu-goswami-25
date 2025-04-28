@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **vasugoswami25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1g9YPLVXEI7sl2_4G8rgvEJSg3y-IzSJC](https://drive.google.com/drive/folders/1g9YPLVXEI7sl2_4G8rgvEJSg3y-IzSJC)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I5BLHcP0T6IWN8LHyWhDkw9IWSvPOayq/view?usp=sharing](https://drive.google.com/file/d/1I5BLHcP0T6IWN8LHyWhDkw9IWSvPOayq/view?usp=sharing)
 
 - ⚡ Fun fact **I’m an amateur photographer and love capturing nature during my weekend hikes! 📸🌲**
 
