@@ -11,7 +11,7 @@ I pride myself on developing projects that are not just functional but also user
 
 
 
-💡 Key Highlights:
+💡 <b>Key Highlights:<b>
 
 Simon Game: A fun and engaging game improving cognitive abilities.
 
