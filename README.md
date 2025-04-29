@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasu Goswami</h1>
-<h3 align="center">"I am Vasu, a dedicated student of Computer Science at Krishna Engineering College driven by a passion to integrate software solutions into everyday challenges. My education has been a playground for developing not only technical skills but also soft skills through teamwork and consistent learning.
+<p align="center">"I am Vasu, a dedicated student of Computer Science at Krishna Engineering College driven by a passion to integrate software solutions into everyday challenges. My education has been a playground for developing not only technical skills but also soft skills through teamwork and consistent learning.
 
 
 
@@ -29,7 +29,7 @@ Backend: Experienced with Java, Spring Boot, and NodeJS
 
 Database Systems: Skilled in SQL, MySQL, MongoDB
 
-Ready to take on challenging projects with innovative solutions? Connect with me for potential collaborations or opportunities."</h3>
+Ready to take on challenging projects with innovative solutions? Connect with me for potential collaborations or opportunities."</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu-goswami-25&label=Profile%20views&color=0e75b6&style=flat" alt="vasu-goswami-25" /> </p>
 
