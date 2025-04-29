@@ -13,21 +13,21 @@ I pride myself on developing projects that are not just functional but also user
 
 💡 <b> Key Highlights: </b>
 
-Simon Game: A fun and engaging game improving cognitive abilities.
+<b>Simon Game:</b> A fun and engaging game improving cognitive abilities.
 
-ATM Simulator System: Handles complex transactions with ease and precision.
+<b>ATM Simulator System:</b> Handles complex transactions with ease and precision.
 
-🎓 Educational Background:
+🎓<b> Educational Background:</b>
 
 Currently achieving a CGPA of 7.07 in B.Tech, Computer Science.
 
-🛠️ Skill Set:
+🛠️ <b>Skill Set:</b>
 
-Frontend: Proficient in HTML, CSS, and JavaScript
+<b>Frontend:</b> Proficient in HTML, CSS, and JavaScript
 
-Backend: Experienced with Java, Spring Boot, and NodeJS
+<b>Backend:</b> Experienced with Java, Spring Boot, and NodeJS
 
-Database Systems: Skilled in SQL, MySQL, MongoDB
+<b>Database Systems:</b> Skilled in SQL, MySQL, MongoDB
 
 Ready to take on challenging projects with innovative solutions? Connect with me for potential collaborations or opportunities."</p>
 
