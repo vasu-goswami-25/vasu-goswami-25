@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasu Goswami</h1>
-<p align="center">"I am Vasu, a dedicated student of Computer Science at Krishna Engineering College driven by a passion to integrate software solutions into everyday challenges. My education has been a playground for developing not only technical skills but also soft skills through teamwork and consistent learning.
+<p align="left">"I am Vasu, a dedicated student of Computer Science at Krishna Engineering College driven by a passion to integrate software solutions into everyday challenges. My education has been a playground for developing not only technical skills but also soft skills through teamwork and consistent learning.
 
 
 
