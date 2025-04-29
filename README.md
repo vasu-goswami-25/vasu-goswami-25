@@ -1,5 +1,35 @@
 <h1 align="center">Hi 👋, I'm Vasu Goswami</h1>
-<h3 align="center">"B.Tech Student | Aspiring Software Engineer | Building projects and learning every day🚀"</h3>
+<h3 align="center">"I am Vasu, a dedicated student of Computer Science at Krishna Engineering College driven by a passion to integrate software solutions into everyday challenges. My education has been a playground for developing not only technical skills but also soft skills through teamwork and consistent learning.
+
+
+
+My internship experience at CodSoft was transformative, pushing me to enhance my Java skills while working on tangible projects that improved system performance. Additionally, completing courses on platforms like Udemy has expanded my knowledge in web development using PHP and MySQL.
+
+
+
+I pride myself on developing projects that are not just functional but also user-centric. For instance, my Simon Game project is designed to test and improve user memory through interactive gaming.
+
+
+
+💡 Key Highlights:
+
+Simon Game: A fun and engaging game improving cognitive abilities.
+
+ATM Simulator System: Handles complex transactions with ease and precision.
+
+🎓 Educational Background:
+
+Currently achieving a CGPA of 7.07 in B.Tech, Computer Science.
+
+🛠️ Skill Set:
+
+Frontend: Proficient in HTML, CSS, and JavaScript
+
+Backend: Experienced with Java, Spring Boot, and NodeJS
+
+Database Systems: Skilled in SQL, MySQL, MongoDB
+
+Ready to take on challenging projects with innovative solutions? Connect with me for potential collaborations or opportunities."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu-goswami-25&label=Profile%20views&color=0e75b6&style=flat" alt="vasu-goswami-25" /> </p>
 
