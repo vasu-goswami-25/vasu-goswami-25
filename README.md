@@ -19,7 +19,7 @@ I pride myself on developing projects that are not just functional but also user
 
 🎓<b> Educational Background:</b>
 
-Currently achieving a CGPA of 7.07 in B.Tech, Computer Science.
+Currently achieving a CGPA of 7.3 in B.Tech, Computer Science.
 
 🛠️ <b>Skill Set:</b>
 
